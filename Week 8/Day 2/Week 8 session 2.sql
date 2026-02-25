@@ -1,3 +1,5 @@
+-- Week 8 sesssion 2 part 1
+
 CREATE DATABASE IF NOT EXISTS DEPI_683B;
 USE DEPI_683B;
 -- drop  database DEPI_683B; -- دي  تمسح بيها الداتا بيز 
@@ -27,3 +29,4 @@ SELECT NAME, AGE FROM EMPLOYEER;     --  بتختار عواميد متعدده
 INSERT INTO Employeer (Name, Department, Salary, Age) VALUES ('Alice', 'HR', 50000, 30);
 INSERT INTO Employeer (Name, Department, Salary, Age) VALUES ('Bob', 'Engineering', 70000, 25);
 INSERT INTO Employeer (Name, Department, Salary, Age) VALUES ('Charlie', 'Marketing', 60000, 35);
+select* from employeer;
