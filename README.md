@@ -108,49 +108,42 @@ Personal learning notes, concepts, techniques, and lessons learned.
 
 <div align="center">
 
-<div style="display:flex; justify-content:center; gap:40px; flex-wrap:wrap;">
+<div style="display:flex; justify-content:center; gap:35px; flex-wrap:nowrap; white-space:nowrap;">
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60">
-<br>
-Python
-</div>
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"><br>
+    <b>Python</b>
+  </div>
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60">
-<br>
-SQL
-</div>
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"><br>
+    <b>SQL</b>
+  </div>
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60">
-<br>
-Pandas
-</div>
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"><br>
+    <b>Pandas</b>
+  </div>
 
-<div align="center">
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="60">
-<br>
-Excel
-</div>
+  <div align="center">
+    <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="60"><br>
+    <b>Excel</b>
+  </div>
 
-<div align="center">
-<img src="https://img.icons8.com/color/96/power-bi.png" width="60">
-<br>
-Power BI
-</div>
+  <div align="center">
+    <img src="https://img.icons8.com/color/96/power-bi.png" width="60"><br>
+    <b>Power BI</b>
+  </div>
 
-<div align="center">
-<img src="https://img.icons8.com/color/96/tableau-software.png" width="60">
-<br>
-Tableau
-</div>
+  <div align="center">
+    <img src="https://img.icons8.com/color/96/tableau-software.png" width="60"><br>
+    <b>Tableau</b>
+  </div>
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="60">
-<br>
-Google Colab
-</div>
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="60"><br>
+    <b>Google Colab</b>
+  </div>
 
 </div>
 
